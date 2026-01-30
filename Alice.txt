@@ -1,1 +1,1 @@
-Ciao Bob!
+Il costo in tempo della funzione è lineare nel numero di bit di messaggio
